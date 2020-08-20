@@ -1,0 +1,31 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+/*.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}*/
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.bordertoptableusers {
+  font-size: 20px; border-top: solid; border-top-color: orange; border-top-width: 15px;
+}
+
+.userlink {
+  color: black; border: none;
+}
+
+.userlinkactive {
+  color: black; border: none;
+  border-bottom: 5px solid #eba35c;
+}
